@@ -97,7 +97,7 @@ function App() {
                     ))}
                   </div>
                 </div>
-<h1> Boo</h1>
+
 
                 <div className="grid gap-2">
                   <h2 className="text-xl tracking-wide font-bold uppercase">
