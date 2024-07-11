@@ -91,7 +91,7 @@ function App() {
                         disabled={index === 4}
                         key={size}
                       >
-                        <span>Ski Japan</span>
+                        <span>Ski Japan this Summer</span>
                         <span>&rarr;</span>
                       </Button>
                     ))}
