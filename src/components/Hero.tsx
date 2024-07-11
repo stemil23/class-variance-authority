@@ -18,13 +18,13 @@ export default function Hero() {
       <div className="mx-auto max-w-2xl">
         <div className="mb-8 flex justify-center">
           <div className="bg-theme-base relative rounded-full px-3 py-1 text-sm leading-6 text-theme-600 ring-1 ring-theme-900/10 hover:ring-theme-900/20">
-            Take me to{" "}
+            About the Developer{" "}
             <a
-              href="stewmilne.id.au" target="_blank"
+              href="http://stewmilne.id.au" target="_blank"
               className="font-semibold text-theme-600 ring-theme-400 ring-offset-4 focus-visible:ring-4 rounded-full ring-offset-theme-base focus:outline-transparent"
             >
               <span className="absolute inset-0" aria-hidden="true"></span>
-              your docs <span aria-hidden="true">&rarr;</span>
+              Stew Milne <span aria-hidden="true">&rarr;</span>
             </a>
           </div>
         </div>
