@@ -98,7 +98,6 @@ function App() {
                   </div>
                 </div>
 
-
                 <div className="grid gap-2">
                   <h2 className="text-xl tracking-wide font-bold uppercase">
                     {option} Icon

@@ -31,6 +31,9 @@ export default function Hero() {
         <h1 className="text-4xl font-bold tracking-tight text-theme-900 sm:text-6xl [text-wrap:balance]">
           Class <span className="text-theme-600">Variance</span> Authority
         </h1>
+        <h2 className="text-1xl font-bold tracking-tight text-theme-900 sm:text-6xl [text-wrap:balance]">
+          #Next JS, #Tailwind CSS, #React JS, #Astro JS
+        </h2>
         <p className="mt-6 text-lg leading-8 text-theme-800 [text-wrap:balance]">
           CVA is a powerful library that empowers developers with enhanced
           control over StyleSheet output, enabling seamless customization and
