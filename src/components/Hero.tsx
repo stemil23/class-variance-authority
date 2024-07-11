@@ -20,7 +20,7 @@ export default function Hero() {
           <div className="bg-theme-base relative rounded-full px-3 py-1 text-sm leading-6 text-theme-600 ring-1 ring-theme-900/10 hover:ring-theme-900/20">
             Take me to{" "}
             <a
-              href="#"
+              href="stewmilne.id.au" target="_blank"
               className="font-semibold text-theme-600 ring-theme-400 ring-offset-4 focus-visible:ring-4 rounded-full ring-offset-theme-base focus:outline-transparent"
             >
               <span className="absolute inset-0" aria-hidden="true"></span>
